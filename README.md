@@ -52,6 +52,9 @@ Beyond comprehensive content coverage, this guide ensures you are fully prepared
 
   </details>
 
+## Errata
+* Chapter 1: (Page 11, table 1.2): **CISO** is **Accountable** for _Incident response and threat management_. Value in column 2, Row 3 should be "A"
+
 <details open> 
   <summary><h2>Chapters</summary>
      <img src="https://cliply.co/wp-content/uploads/2020/02/372002150_DOCUMENTS_400px.gif" alt="Unity Cookbook, Fifth Edition" height="556px" align="right">
