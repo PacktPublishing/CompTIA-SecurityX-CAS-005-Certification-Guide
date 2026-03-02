@@ -66,8 +66,7 @@ In certain cases, cached session data is preventing proper authentication, which
  
 This is a known issue and has been raised with the platform team. An internal ticket is currently open while the root cause is being addressed.
  
-**Current Workaround**:  
-If you experience this issue, please follow these steps:
+**Current Workaround**:  If you experience this issue, please follow these steps:
 Log out of the Book+ platform.
 Clear your browser cache.
 Close and reopen your browser.
